@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaiah, an <a href="https://linkedin.com/in/Isaiahbranch">IT Professional </h1>
+<h1>Hi, I'm Isaiah, an <a href="https://linkedin.com/in/isaiah-branch-">IT Professional </h1>
 <h2> 📋 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
